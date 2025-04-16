@@ -1,0 +1,19 @@
+.odd{
+    color: rgb(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0));
+    background-color: rgb(255, 153, 255);
+    font-size: 18px;
+}
+.odd#cooler{
+    color: rgb(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0));
+    background-color: rgb(255, 153, 255);
+    font-size: 32px;
+}
+#even{color: blue;
+    font-size: 40px;
+background-color: white;
+font-weight: bold;}
+#evensq{background-color: #5dea83;
+    font-weight: bold;
+    font-size: x-large;
+
+}
